@@ -80,7 +80,7 @@ h1
 }
 @media screen and (max-width: 1200px) {
 	.board{
-		width: 1200px;
+		width: 900px;
 	}
 	.card{
 		width: 100px;
